@@ -1,0 +1,5 @@
+{
+  "name": "MoodPaper",
+  "description": "사용자의 기분과 분위기에 맞춰 9:16 비율의 고화질 휴대폰 배경화면을 생성하는 AI 기반 모바일 웹 앱입니다.",
+  "requestFramePermissions": []
+}
